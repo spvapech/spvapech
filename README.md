@@ -13,6 +13,22 @@
 
 ---
 
+## ✨ Live Demo Showcase
+
+<div align="center">
+
+### 🎯 AI-Powered Employer Review Dashboard
+
+> *Interactive demonstration of my award-winning Bachelor Project*
+
+[![🚀 Explore Live Demo](https://img.shields.io/badge/🚀%20Explore%20Live%20Demo-FF6B6B?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](https://epa-bachelorprojekt.vercel.app/welcome)
+
+*Grade: 1.0 · Dean's Award Finalist 2025*
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 I'm a Software Engineering student at the **University of Duisburg-Essen** with a focus on AI and NLP. I like building things that turn messy data into something useful.
@@ -33,8 +49,12 @@ An end-to-end NLP dashboard that analyzes Kununu employer reviews using topic mo
 
 **Stack:** React · FastAPI · Supabase · HuggingFace · PyTorch · ARIMA
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat&logo=vercel)](https://vercel.com)
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat&logo=vercel)](https://epa-bachelorprojekt.vercel.app/welcome)
 [![Model](https://img.shields.io/badge/Model-HuggingFace%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co)
+
+</div>
 
 ---
 
