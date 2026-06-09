@@ -21,7 +21,7 @@
 
 > *Interactive demonstration of my award-winning Bachelor Project*
 
-[![🚀 Explore Live Demo](https://img.shields.io/badge/🚀%20Explore%20Live%20Demo-FF6B6B?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](https://epa-bachelorprojekt.vercel.app/welcome)
+[![🚀 Explore Live Demo](https://img.shields.io/badge/🚀%20Explore%20Live%20Demo-FF6B6B?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](https://epa-bachelorprojekt.vercel.app)
 
 *Grade: 1.0 · Dean's Award Finalist 2025*
 
